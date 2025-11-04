@@ -19,3 +19,6 @@ results.innerHTML = `Please give valid weight ${weight}`;
 }
 
 });
+
+// check the base weight
+// now make on temprature 
